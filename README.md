@@ -24,15 +24,6 @@ O objetivo deste aplicativo é centralizar e exibir meus trabalhos técnicos e a
 
 ## ✨ Funcionalidades
 
-<div align="center">
-
-![Home](https://img.shields.io/badge/🏠-Página%20Inicial-blue?style=flat-square)
-![Projetos](https://img.shields.io/badge/📱-Projetos-green?style=flat-square)
-![Multiplataforma](https://img.shields.io/badge/🌐-Multiplataforma-purple?style=flat-square)
-![Design](https://img.shields.io/badge/🎨-UI%2FUX-pink?style=flat-square)
-
-</div>
-
 - 🏠 **Página Inicial Dinâmica** (`tela-home.dart`): Uma visão geral do perfil, destacando as principais habilidades e informações de contato.
 
 - 📱 **Exibição de Projetos** (`card-project.dart`): Cards interativos e reutilizáveis para detalhar cada projeto, evidenciando as tecnologias utilizadas e os desafios superados.
