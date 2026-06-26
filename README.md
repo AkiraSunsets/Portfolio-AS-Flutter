@@ -70,13 +70,6 @@ Portfolio-AS-Flutter/
 
 ### Pré-requisitos
 
-<div align="center">
-
-![Flutter SDK](https://img.shields.io/badge/Flutter%20SDK-Required-blue?style=flat-square&logo=flutter&logoColor=white)
-![Emulator](https://img.shields.io/badge/Emulator-Android%20%7C%20Web%20%7C%20Windows-brightgreen?style=flat-square)
-
-</div>
-
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) instalado na sua máquina
 - Um emulador configurado (Android) ou navegador web
 - Dart SDK instalado
